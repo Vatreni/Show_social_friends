@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Show_social_friends</string>
+    <string name="facebook_app_id">1439964552903808</string>
+    <string name="vk_app_id">4170865</string>
+    <string name="invite_from_fb">Друзья на Facebook</string>
+    <string name="invite_from_vk">Друзья на VK</string>
+</resources>

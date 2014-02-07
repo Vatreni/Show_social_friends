@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Show_social_friends.iml" filepath="$PROJECT_DIR$/Show_social_friends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facebook-android-sdk-3.6.0/facebook-android-sdk-3.6.0.iml" filepath="$PROJECT_DIR$/facebook-android-sdk-3.6.0/facebook-android-sdk-3.6.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vk-android-sdk/vksdk_library/src/main/vksdk.iml" filepath="$PROJECT_DIR$/vk-android-sdk/vksdk_library/src/main/vksdk.iml" />
+    </modules>
+  </component>
+</project>
+
